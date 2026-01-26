@@ -64,3 +64,5 @@ df = pd.DataFrame(all_jobs)
 df.to_csv("indeed_job_titles.csv", index=False, encoding="utf-8")
 
 print(f"✅ Exported {len(df)} jobs to indeed_job_titles.csv")
+
+
