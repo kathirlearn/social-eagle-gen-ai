@@ -1,0 +1,43 @@
+{
+  "task": "image_generation",
+  "description": "Generate a joyful and culturally authentic scene featuring a Kangayam Jallikattu bull gently playing with a village child during Pongal celebrations in rural Tamil Nadu, India.",
+  "scene": {
+    "primary_subjects": [
+      "A majestic Kangayam Jallikattu bull with a muscular build, light grey to white coat, and naturally curved horns, traditionally decorated with turmeric, kumkum, flower garlands, and small bells",
+      "A cheerful village child wearing traditional South Indian clothing, laughing and playfully running beside the bull"
+    ],
+    "interaction": "The bull and the child are shown in a friendly, non-threatening, playful moment that reflects trust, warmth, and harmony between humans and animals.",
+    "environment": "A traditional Tamil village during Pongal with lush sugarcane fields, banana trees, clay-tiled houses, colorful kolam patterns on the ground, fluttering festival flags, and an earthen Pongal pot with rice boiling over.",
+    "time_of_day": "Early morning at sunrise"
+  },
+  "visual_style": {
+    "art_style": "cinematic realism blended with a soft painterly aesthetic",
+    "lighting": "warm golden sunrise light creating gentle highlights and soft shadows",
+    "color_palette": "earthy rural tones enhanced with festive colors such as yellow, red, green, and gold",
+    "composition": "dynamic mid-action framing with natural motion, shallow depth of field, and strong focus on emotional expression"
+  },
+  "mood_and_theme": {
+    "mood": "joyful, festive, wholesome, heartwarming",
+    "theme": "Pongal celebration, rural heritage, respect for native cattle breeds, harmony between humans and animals"
+  },
+  "quality": {
+    "detail_level": "highly detailed",
+    "resolution": "high resolution",
+    "clarity": "sharp main subjects with softly blurred background"
+  },
+  "constraints": {
+    "exclude": [
+      "violence",
+      "aggression",
+      "fear",
+      "injury",
+      "blood",
+      "urban setting",
+      "modern buildings",
+      "western clothing",
+      "text",
+      "watermarks",
+      "logos"
+    ]
+  }
+}

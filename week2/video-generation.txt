@@ -1,0 +1,93 @@
+{
+  "project_type": "short_form_advertisement_video",
+  "brand": {
+    "name": "SK Home Bites",
+    "tagline": "Elegance You Can Bite"
+  },
+  "duration_seconds": 15,
+  "aspect_ratio": "9:16",
+  "target_audience": ["South Indian families", "kids", "parents"],
+  "visual_style": {
+    "mood": "joyful, warm, trustworthy",
+    "aesthetic": "modern South Indian home bakery",
+    "lighting": "bright natural daylight",
+    "camera_style": [
+      "quick cinematic cuts",
+      "slow-motion food close-ups",
+      "natural kid reactions"
+    ]
+  },
+  "cast": {
+    "kids": {
+      "region": "South India",
+      "age_range": "5-9",
+      "appearance": "brown skin tones, expressive eyes, natural smiles",
+      "wardrobe": [
+        "pastel cotton dresses",
+        "casual Indian home wear"
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "time_range": "0-3s",
+      "description": "South Indian kids noticing cupcakes and brownies on a home dining table",
+      "visuals": [
+        "sunlight-filled kitchen",
+        "kids leaning in excitedly"
+      ],
+      "text_overlay": "Freshly Made at Home"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "3-6s",
+      "description": "Appetizing close-ups of cupcakes and brownies",
+      "visuals": [
+        "cupcake frosting swirl",
+        "soft brownie crack",
+        "chocolate drizzle in slow motion"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "time_range": "6-10s",
+      "description": "Kids tasting and reacting happily",
+      "visuals": [
+        "first bite smiles",
+        "happy nods",
+        "shared laughter"
+      ],
+      "tone": "pure joy"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "10-13s",
+      "description": "Ingredient visuals without text",
+      "visuals": [
+        "whole wheat grains",
+        "jaggery melting",
+        "eggless batter whisking smoothly"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "time_range": "13-15s",
+      "description": "Final brand hero shot",
+      "visuals": [
+        "kids holding cupcakes",
+        "clean product arrangement",
+        "logo fade-in"
+      ],
+      "text_overlay": "SK Home Bites",
+      "sub_text": "Elegance You Can Bite",
+      "cta": "Loved by Kids. Trusted by Parents."
+    }
+  ],
+  "audio": {
+    "background_music": "light upbeat Indian-modern instrumental",
+    "ambient_sounds": [
+      "soft kids tasting”
+    ]
+  }
+}
